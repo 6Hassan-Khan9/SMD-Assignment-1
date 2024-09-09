@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">Quiz Application</string>
+
+    <!-- Question 1 -->
+    <string name="question_0">What is the capital of France?</string>
+    <string name="option_0_0">Berlin</string>
+    <string name="option_0_1">Madrid</string>
+    <string name="option_0_2">Paris</string>
+    <string name="option_0_3">Rome</string>
+
+    <string name="question_1">What is the largest planet in our Solar System?</string>
+    <string name="option_1_0">Earth</string>
+    <string name="option_1_1">Mars</string>
+    <string name="option_1_2">Jupiter</string>
+    <string name="option_1_3">Saturn</string>
+
+    <string name="question_2">What is the chemical symbol for gold?</string>
+    <string name="option_2_0">Au</string>
+    <string name="option_2_1">Ag</string>
+    <string name="option_2_2">Pb</string>
+    <string name="option_2_3">Fe</string>
+
+    <string name="question_3">Who wrote \'To Kill a Mockingbird\'?</string>
+    <string name="option_3_0">Harper Lee</string>
+    <string name="option_3_1">Mark Twain</string>
+    <string name="option_3_2">Ernest Hemingway</string>
+    <string name="option_3_3">F. Scott Fitzgerald</string>
+
+    <string name="question_4">What is the hardest natural substance on Earth?</string>
+    <string name="option_4_0">Gold</string>
+    <string name="option_4_1">Iron</string>
+    <string name="option_4_2">Diamond</string>
+    <string name="option_4_3">Platinum</string>
+
+    <string name="question_5">What is the capital of Australia?</string>
+    <string name="option_5_0">Sydney</string>
+    <string name="option_5_1">Melbourne</string>
+    <string name="option_5_2">Canberra</string>
+    <string name="option_5_3">Brisbane</string>
+
+    <string name="question_6">Which gas is most abundant in Earth\'s atmosphere?</string>
+    <string name="option_6_0">Nitrogen</string>
+    <string name="option_6_1">Oxygen</string>
+    <string name="option_6_2">Carbon Dioxide</string>
+    <string name="option_6_3">Argon</string>
+
+    <string name="question_7">What is the chemical symbol for hydrogen?</string>
+    <string name="option_7_0">H</string>
+    <string name="option_7_1">He</string>
+    <string name="option_7_2">Li</string>
+    <string name="option_7_3">Be</string>
+
+    <string name="question_8">What is the largest ocean on Earth?</string>
+    <string name="option_8_0">Atlantic Ocean</string>
+    <string name="option_8_1">Pacific Ocean</string>
+    <string name="option_8_2">Indian Ocean</string>
+    <string name="option_8_3">Arctic Ocean</string>
+
+    <string name="question_9">Who wrote the play "Romeo and Juliet"?</string>
+    <string name="option_9_0">William Shakespeare</string>
+    <string name="option_9_1">Jane Austen</string>
+    <string name="option_9_2">Charles Dickens</string>
+    <string name="option_9_3">Mark Twain</string>
+
+    <string name="question_10">What is the tallest mountain in the world?</string>
+    <string name="option_10_0">Mount Everest</string>
+    <string name="option_10_1">Mount Kilimanjaro</string>
+    <string name="option_10_2">Mount Aconcagua</string>
+    <string name="option_10_3">Mount McKinley</string>
+
+    <string name="question_11">What is the official language of Brazil?</string>
+    <string name="option_11_0">Spanish</string>
+    <string name="option_11_1">Portuguese</string>
+    <string name="option_11_2">French</string>
+    <string name="option_11_3">English</string>
+
+    <string name="question_12">Which planet is known as the Red Planet?</string>
+    <string name="option_12_0">Mars</string>
+    <string name="option_12_1">Venus</string>
+    <string name="option_12_2">Mercury</string>
+    <string name="option_12_3">Saturn</string>
+
+    <string name="question_13">What is the currency of the United States?</string>
+    <string name="option_13_0">Euro</string>
+    <string name="option_13_1">Pound Sterling</string>
+    <string name="option_13_2">US Dollar</string>
+    <string name="option_13_3">Yen</string>
+
+    <string name="question_14">What is the largest country in Africa?</string>
+    <string name="option_14_0">Nigeria</string>
+    <string name="option_14_1">South Africa</string>
+    <string name="option_14_2">Egypt</string>
+    <string name="option_14_3">Algeria</string>
+
+    <string name="question_15">Who painted the Sistine Chapel ceiling?</string>
+    <string name="option_15_0">Leonardo da Vinci</string>
+    <string name="option_15_1">Michelangelo</string>
+    <string name="option_15_2">Raphael</string>
+    <string name="option_15_3">Rembrandt</string>
+
+    <string name="question_16">What is the chemical formula for water?</string>
+    <string name="option_16_0">H2O</string>
+    <string name="option_16_1">CO2</string>
+    <string name="option_16_2">NaCl</string>
+    <string name="option_16_3">NH3</string>
+
+    <string name="question_17">What is the capital of Canada?</string>
+    <string name="option_17_0">Toronto</string>
+    <string name="option_17_1">Vancouver</string>
+    <string name="option_17_2">Ottawa</string>
+    <string name="option_17_3">Montreal</string>
+
+    <string name="question_18">Which animal is the largest land mammal on Earth?</string>
+    <string name="option_18_0">Elephant</string>
+    <string name="option_18_1">Giraffe</string>
+    <string name="option_18_2">Hippopotamus</string>
+    <string name="option_18_3">Blue Whale</string>
+
+    <!-- Question 20 -->
+    <string name="question_19">Which element has the atomic number 1?</string>
+    <string name="option_19_0">Helium</string>
+    <string name="option_19_1">Hydrogen</string>
+    <string name="option_19_2">Lithium</string>
+    <string name="option_19_3">Beryllium</string>
+</resources>
